@@ -1,6 +1,4 @@
 # TPA-4bimestre
-Yasmin Pereira dos Santos  
-40° 1 DSA  
-15 Exercícios .java  
-4° Bimestre
+Aqui estão os 15 exercícios resolvidos de TPA sobre vetores (.java) – 40° 1 DS A, 4° Bimestre, Yasmin Pereira dos Santos
+
 
