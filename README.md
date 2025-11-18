@@ -1,3 +1,6 @@
 # TPA-4bimestre
-lista de exercicios de tpa .java do 4° Bimestre 
+Yasmin Pereira dos Santos  
+40° 1 DSA  
+15 Exercícios .java  
+4° Bimestre
 
